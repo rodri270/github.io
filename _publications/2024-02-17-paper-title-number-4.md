@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "This is me editing the file found in the publications folder of the repo. All i did was edit the tittle i wanna see what happens "
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
