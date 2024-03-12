@@ -1,5 +1,5 @@
 ---
-title: "Statics"
+title: "Stats"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/2023-spring-stats
