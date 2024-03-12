@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Statics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecture"
+permalink: /teaching/2023-spring-stats
+venue: "Stockton University, Computer Science"
+date: 2023-01-01
+location: "Galloway, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Went over intro stats concepts for a mixture of students 
 
 Heading 1
 ======
